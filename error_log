@@ -1,7 +1,0 @@
-[22-Oct-2020 18:22:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Controllers/HomeController.php on line 32
-[31-Oct-2020 11:14:51 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Controllers/Controller.php on line 3
-[31-Oct-2020 11:14:55 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Controllers/Controller.php on line 3
-[31-Oct-2020 11:15:28 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Controllers/Controller.php on line 3
-[19-Oct-2021 15:31:18 UTC] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Library/Helper.php on line 161
-[19-Oct-2021 15:31:47 UTC] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Library/Helper.php on line 161
-[19-Oct-2021 15:33:54 UTC] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/fccfvj9cuhk9/public_html/254bid.com/app/Http/Library/Helper.php on line 161
