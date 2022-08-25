@@ -1,0 +1,45 @@
+{
+	
+	"Dashboard":"Dashboard",
+	"Add Personal Data":"Add Personal Data",
+	"Personal Data List":"Personal Data List",
+	"Add Event":"Add Event",
+	"CM Situation":"CM Situation",
+	"Manage Association Data":"Manage Association Data",
+	"Enter Fee Receipt":"Enter Fee Receipt",
+	"Proposed Changes":"Proposed Changes",
+	"Entrance/Exits":"Entrance/Exits",
+	"Ticket":"Ticket",
+	"Export Personal Data":"Export Personal Data",
+	"Log":"Log",
+	"Change Password":"Change Password",
+	"Manage Operators":"Manage Operators",
+	"Course Modification Proposals": "Course Modification Proposals",
+	"There are":"There are",
+	"requests to evaluate":"requests to evaluate",
+	"Members":"Members",
+	"members are registered .":"members are registered .",
+	"Payment status":"Payment status",
+	"outstanding payments .":"outstanding payments .",
+	"Payments accepted today":"Payments accepted today",
+	"payments have been accepted for a total of":"payments have been accepted for a total of",
+	"Payments accepted yesterday":"Payments accepted yesterday",
+	"Events":"Events",
+	"events are active .":"events are active .",
+	"At the moment":"At the moment",
+	"events are in progress out of a total of":"events are in progress out of a total of",
+	"scheduled for today":"scheduled for today",
+	"CM status registered":"CM status registered",
+	"expired CMs .":"expired CMs .",
+	"CM expiring in the month.":"CM expiring in the month.",
+	"a total of":"a total of",
+	"subscribers do not have a CM.":"subscribers do not have a CM.",
+	"CLIPBOARD":"CLIPBOARD",
+	"name":"name",
+	"Global Search":"Global Search",
+	"No Record Found":"No Record Found"
+
+
+
+
+}
