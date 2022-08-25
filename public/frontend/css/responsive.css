@@ -1,0 +1,323 @@
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (max-width: 1200px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+
+@media (max-width: 992px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (max-width: 768px) {
+
+.banner img {
+    min-height: 200px;
+    object-fit: cover;
+}
+.inner-conts h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+    line-height: normal;
+}
+.banner-form {
+    justify-content: flex-start;
+}
+.banner-conts {
+    top: 20px;
+}
+.strip-main h5, .strip-main a {
+    font-size: 15px;
+}
+.footer-cont {
+    margin-bottom: 20px;
+}
+.footer-logo .row .col-12:nth-child(-n+3) {
+    margin-bottom: 30px;
+}
+.footer-logo .row .col-6:nth-child(-n+3) {
+    margin-bottom: 30px;
+}
+.menu-link ul li a {
+    font-size: 15px;
+    font-weight: 400;
+}
+.menu-link ul li {
+    padding-right: 30px;
+    padding-top: 7px;
+}
+.inner-container {
+    width: 95%;
+}
+.single-page .categories-button select {
+    width: 100%;
+}
+.wrapper-item {
+    width: 31.9%;
+}
+.wrapper-item img {
+    margin: 0;
+    padding: 0 10px;
+    width: 100% !important;
+}
+span.toggle-btn {
+    display: block;
+    width: 40px;
+    height: 20px;
+    margin: 0 0 0 auto;
+    position: relative;
+    border-bottom: solid 2px #0989c9;
+    top: 21px;
+    right: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+span.toggle-btn:before {
+    content: "";
+    width: 100%;
+    height: 2px;
+    background: #0989c9;
+    position: absolute;
+    top: 0;
+    transition: all 0.3s ease;
+}
+span.toggle-btn:after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    background: #0989c9;
+    position: absolute;
+    top: 9px;
+    transition: all 0.3s ease;
+}
+span.toggle-btn.active {
+    border-bottom: none;
+    transition: all 0.3s ease;
+    top: 31px;
+}
+span.toggle-btn.active:before {
+    transition: all 0.3s ease;
+    transform: rotate(45deg);
+}
+span.toggle-btn.active:after {
+    transition: all 0.3s ease;
+    transform: rotate(130deg);
+    top: 0;
+}
+.menu-link {
+    display: none;
+}
+.menu-link ul li {
+    padding-right: 0;
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+.menu-link ul li a {
+    border-bottom: solid 1px #2f5e8e;
+    padding-bottom: 15px;
+    width: 100%;
+    display: block;
+}
+.menu-link ul li:last-child {
+    padding-right: 0;
+    padding-bottom: 15px;
+}
+.menu-link ul li:first-child {
+    padding-top: 0px;
+}
+a.lot-bid-history.btn.btn-link.p-a-0 {
+    font-size: 13px;
+}
+span.lot-time-left.inline-block.text-wrap {
+    font-size: 10px;
+    padding-left: 5px;
+}
+.img-social img {
+    width: 130px;
+}
+.fullview-layout .btn.btn-default, .fullview-layout .btn.btn-primary {
+    font-size: 12px;
+}
+.category-main .col-12 {
+    padding: 0 10px !important;
+}
+.categories-button.sorted {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.categories-button {
+    margin-bottom: 10px;
+}
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (max-width: 576px) {
+
+.strip-main .row .d-flex {
+    flex-direction: column;
+    text-align: center;
+}
+.strip-main h5, .strip-main a {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.client-logo {
+    padding: 30px 0;
+}
+.client-logo .logo-item {
+    width: 20%;
+}
+.footer-logo .row .col-6 {
+    margin-bottom: 10px;
+    padding: 0 5px;
+}
+.footer {
+    padding: 60px 0;
+}
+.footer-logo .row .col-6:nth-child(-n+3) {
+    margin-bottom: 10px;
+}
+.inner-container {
+    width: 95%;
+}
+.menu-link {
+    padding-bottom: 12px;
+}
+.social-share ul {
+    justify-content: start;
+    margin-bottom: 10px;
+}
+.address-sec {
+    padding-right: 10px;
+}
+.three-btn ul li {
+    width: 100%;
+    border-right: none;
+    border-bottom: solid 2px #292828;
+}
+.three-btn ul li:last-child {
+    border-bottom: none;
+}
+.single-page .category-main .col-12 {
+    padding: 0 15px !important;
+    margin-bottom: 10px;
+}
+.lot-list-view-options {
+    margin-bottom: 20px;
+}
+.wrapper-item {
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+.box-title {
+    justify-content: space-between;
+}
+.search-form {
+    width: 100%;
+    margin-bottom: 10px;
+}
+span.toggle-btn {   
+    top: -38px;
+}
+span.toggle-btn.active {
+    top: -25px;
+}
+.modal-body .logo {
+    position: inherit;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+.payment-method {
+    margin-top: 10px;
+}   
+.payment-method .btn-default {
+    margin-top: 12px;
+}
+.category-main form {
+    flex-wrap: wrap;
+}
+span.lot-time-left.inline-block.text-wrap {
+    margin: 7px auto;
+    display: flex;
+}
+.lot-buttons-col.col-4.col-sm-4.col-md-3.col-lg-3.p-x-0 {
+    margin-left: 15px;
+}
+.img-social a, .img-social a img {
+    width: 100%;
+    padding: 0 15px;
+}
+.lot-description.text-pre-line p {
+    text-align: center;
+}
+.full-inner .inline-btn {
+    padding: 20px;
+}
+.hours-detail {
+    padding-top: 0;
+}
+.search-form input {
+    width: 87%;
+}
+.categories-button {
+    margin-bottom: 10px;
+    width: 100%;
+}
+.result-showing {
+    flex-direction: column;
+    align-items: flex-start;
+}
+ul.pagination {
+    width: 100%;
+    flex-wrap: wrap;
+}
+.page-link {
+    padding: 5px 10px;
+}
+.three-btn ul {
+    flex-direction: column;
+}
+.auction-past .three-btn ul li {
+    width: 100%;
+}
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (max-width: 320px) {
+
+.autoplay-slider:before {
+    width: 120px;
+    height: 115px;
+}
+.client-logo .logo-item {
+    width: 25%;
+}
+.strip-main h5, .strip-main a {
+    font-size: 15px;
+    line-height: normal;
+}
+.alert-form input[type="submit"] {
+    margin-top: 10px;
+}
+.banner-form {
+    align-items: center;
+}
+label.btn.btn-default {
+    padding: 5px 5px;
+}
+
+}
